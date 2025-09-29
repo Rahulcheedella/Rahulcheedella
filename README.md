@@ -36,7 +36,7 @@ I'm a recent graduate with a strong passion for building intelligent systems. I 
 ### 🤝 Connect with Me
 
 <p align="left">
- <a href="linkedin.com/in/rahul-cheedella-3b8394264" target="_blank">
+ <a href="https://www.linkedin.com/in/rahul-cheedella-3b8394264/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://leetcode.com/u/Rahul_Cheedella/" target="_blank">
