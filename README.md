@@ -50,8 +50,8 @@ Currently pursuing my **B.Tech in Computer Science (CGPA: 9.4)** at **R.V.R & J.
   <a href="https://leetcode.com/u/Rahul_Cheedella/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://github.com/Rahulcheedella" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.hackerrank.com/profile/rahulcheedella" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   <a href="[your-portfolio-link]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
