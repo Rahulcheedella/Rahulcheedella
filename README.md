@@ -60,16 +60,6 @@ Currently pursuing my **B.Tech in Computer Science (CGPA: 9.4)** at **R.V.R & J.
 
 ---
 
-## 🧠 Featured ML Model Architecture  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rahulcheedella/assets/main/ai_architecture.png" width="800" alt="AI Model Pipeline"/>
-</p>
-
-> Modular AI pipeline integrating **Data Preprocessing → Model Training → Evaluation → Flask Deployment → Cloud Visualization.**
-
----
-
 ## 🚀 Highlighted Projects
 
 | Project | Description | Tech Stack | Link |
