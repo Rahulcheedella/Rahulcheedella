@@ -53,7 +53,7 @@ Currently pursuing my **B.Tech in Computer Science (CGPA: 9.4)** at **R.V.R & J.
   <a href="https://www.hackerrank.com/profile/rahulcheedella" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="[your-portfolio-link]" target="_blank">
+  <a href="https://rahulcheedella-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
