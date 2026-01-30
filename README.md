@@ -64,6 +64,7 @@ Currently pursuing my **B.Tech in Computer Science (CGPA: 9.4)** at **R.V.R & J.
 
 | Project | Description | Tech Stack | Link |
 |:--------|:-------------|:------------|:-----|
+| 🎬 **RAG ChatBot** | Answer to the user queries based on the college data that user provided. | Flask, langchain, RAG, bashini | [🔗 Repo](https://github.com/Rahulcheedella/SummarAIze](https://github.com/Rahulcheedella/VRSEC-RAG)) |
 | 🖊️ **SketchScribe** | Converts **speech → sketch** using NLP & Stable Diffusion. Integrated Whisper + Flask for real-time drawing. | Flask, Whisper, Stable AI Diffusers | [🔗 Repo](https://github.com/Rahulcheedella/SketchScribe) |
 | 🎬 **SummariAIze** | Automated **video summarization** using NLP & MoviePy, achieving 85% key-scene detection accuracy. | Flask, NLP, MoviePy | [🔗 Repo](https://github.com/Rahulcheedella/SummarAIze) |
 | 🎓 **Placement Forecaster** | Ensemble ML model predicting student placement probability with 90% accuracy, deployed via Flask. | Flask, Scikit-learn, Pandas | [🔗 Repo](https://github.com/Rahulcheedella/Placement-Forecast) |
@@ -184,19 +185,6 @@ Currently pursuing my **B.Tech in Computer Science (CGPA: 9.4)** at **R.V.R & J.
 - 🥈 **2nd Place** — *Code-A-Thon 2k25* (1000+ participants)  
 - 💡 Solved **500+ LeetCode problems** (Algorithms & DSA)  
 - ⭐ **5-Star Ratings** on HackerRank (Python, C++, SQL)  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rahulcheedella&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulcheedella&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahulcheedella&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
